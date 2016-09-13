@@ -2,7 +2,7 @@
  * Imports
  */
 
-import forEach from '@f/forEach-obj'
+import forEach from '@f/foreach-obj'
 
 /**
  * Action types
