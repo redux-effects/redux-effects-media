@@ -2,7 +2,7 @@
   "name": "redux-effects-media",
   "description": "Effect driver for listening to media query changes in javascript",
   "repository": "git://github.com/redux-effects/redux-effects-media.git",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "main": "lib/index.js",
   "scripts": {
